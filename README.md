@@ -10,7 +10,7 @@ Implemented the following unsupervised learning algorithms:
 The output of each of these algorithms were consolidated and the threat level was calculated. If any transaction has a threat level of greater than or equal to 3, then it is flagged as a potential fraud.
 
 ### Outputs:
-The outputs of each of these learning algorithms are stored in seperate csv files in the Output Folder.
+The outputs of each of these learning algorithms are stored in seperate csv files in the output_folder.
 'potential_frauds.csv' stores the list of transactions flagged as fraudulent
 
 
